@@ -34,7 +34,7 @@ public class Utils {
         public static double root(double num, double root){
             return pow(E, log(num)/root);
         }
-        public static double offsetTone(double baseFrequency, double freq)
+//        public static double offsetTone(double baseFrequency, double freq)
     }
     public static class ParameterHandling{
         public static final Robot PARAMETER_ROBOT;
